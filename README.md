@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
 
-## 🔧 Projects
+## 🔧 Key Projects
 
 **[Kafka를 이용한 업무용 메신저 제작](https://github.com/S00zzang-portfolio/DE32-2rd_team3)**
   
