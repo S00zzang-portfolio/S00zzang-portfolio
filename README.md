@@ -1,5 +1,7 @@
 # 👋 안녕하세요! 저는 박수진입니다!
 <img src="https://capsule-render.vercel.app/api?text=SuJin's%20git&type=waving&color=timeAuto&height=150&section=header" />
+
+
 ## 📜 About Me
 
 저는 경영학과와 소프트웨어 복수전공을 하고 있는 박수진입니다.
