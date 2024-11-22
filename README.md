@@ -1,11 +1,12 @@
 # 👋 안녕하세요! 저는 박수진입니다!
-
+<img src="https://capsule-render.vercel.app/api?text=SuJin's%20git&type=waving&color=timeAuto&height=150&section=header" />
 ## 📜 About Me
 
 저는 경영학과와 소프트웨어 복수전공을 하고 있는 박수진입니다.
 
-저는 데이터 엔지니어링과 데이터 분석에 깊은 관심을 가지고 있습니다.
-특히, 실시간 데이터 처리와 빅데이터 처리 시스템 구축에 흥미를 느끼고 있습니다.
+저는 데이터 엔지니어링과 데이터 분석에 관심을 가지고 있습니다.
+
+특히, **실시간 데이터 처리**와 **빅데이터 처리 시스템 구축**에 흥미를 느끼고 있습니다.
 
 
 ## 🛠️ Stacks
@@ -53,7 +54,7 @@ School
 |2020.03 - 2026.01|	가천대학교 경영학과 및 소프트웨어학과 재학|
 
 
-For traning
+Training
 
 |시작 - 수료|	내용|
 |----------|----------|
@@ -86,3 +87,4 @@ Ing(~24.12)
 ## 🎯 목표
 
 제 목표는 최신 기술을 활용해 대규모 데이터를 효율적으로 처리하고 분석하는 솔루션을 개발하는 계속 굴러가는 개발자가 되는 것입니다.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer" />
