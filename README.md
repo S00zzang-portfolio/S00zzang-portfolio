@@ -33,15 +33,16 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
 
-## 🔧 프로젝트
+## 🔧 Projects
 
-### [프로젝트 이름](링크)
-프로젝트 설명: [프로젝트에 대해 간단하게 설명]
-기술 스택: [사용한 기술 스택]
+**[Kafka를 이용한 업무용 메신저 제작](https://github.com/S00zzang-portfolio/DE32-2rd_team3)**
+  
+24.08.26 - 24.08.28
 
-### [프로젝트 이름](링크)
-프로젝트 설명: [프로젝트에 대해 간단하게 설명]
-기술 스택: [사용한 기술 스택]
+
+**[ML 및 DL model를 이용한 나이 예측 시스템 제작](https://github.com/S00zzang-portfolio/DE32-3rd_team2)**
+
+24.10.04 - 24.10.08
 
 ## 👩‍🎓 Learn
 
