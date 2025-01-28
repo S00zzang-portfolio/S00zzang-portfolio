@@ -43,6 +43,10 @@
 
 ## 🔧 Key Projects
 
+**[영화 취향 기반 네트워킹 플랫폼 CINEMATE](https://github.com/S00zzang-portfolio/DE32-fin-3team-GEEK-CINEMATE)**
+  
+24.11.14 - 25.01.06
+
 **[Kafka를 이용한 업무용 메신저 제작](https://github.com/S00zzang-portfolio/DE32-2rd_team3)**
   
 24.08.26 - 24.08.28
@@ -78,6 +82,7 @@
 |빅데이터분석 실무 2급|24.02|
 |SQLd|24.06|
 |AdSP|24.06|
+|경영정보시각화능력 (필기)|24.12|
 
 **Language**
 
@@ -90,8 +95,8 @@
 
 |자격증|예정일|
 |----------|----------|
-|경영정보시각화|24.11|
-|ProDS|24.12|
+|ProDS|25.02|
+|리눅스마스터 2급 (2차)|25.03|
 
 
 ## 🎯 목표
